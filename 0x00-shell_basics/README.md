@@ -1,5 +1,1 @@
-script that prints the absolute path name of the current working directory
-There is no place like home
-The long format
-The long format
-The long format
+current directory contents, including hidden files (sstarting with .). Use the long format.
